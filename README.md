@@ -61,17 +61,13 @@ currently_learning: ["Machine Learning, Cloud Computing"]
   <img src="./banner.svg" alt="Banner — Jammu Ashica" width="100%"/>
 </p>
 
-<div align="center">
-  <!-- Profile image (add profile.jpg to repo root to show) -->
-  <img src="./profile.jpg" alt="profile" width="110" height="110" style="border-radius: 50%; margin-top: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25)"/>
-</div>
+
 
 # 👋 Hello — I'm Jammu Ashica
 **Personal yet professional** — I craft practical software with a focus on real-time computer vision and user-first design. I’m currently a CS student and a Software Developer Intern — I enjoy turning ideas into working demos and building tools that help people.
 
 - 🔭 Currently interning at **Yugayatra (OPC) Private Ltd.**  
 - 🎯 Focus: real-time CV, ML pipelines, full-stack web apps  
-- 💡 Approach: pragmatic, iterative, and user-focused
 
 ---
 
@@ -138,13 +134,6 @@ A colorful, interactive list of my core stacks — click any badge to explore mo
 </p>
 
 ---
-
-## 🛠 How to personalize further
-- Replace `profile.jpg` with your photo (same filename) to show your avatar at the top.  
-- Tweak colors in `banner.svg` if you prefer a different palette. Open the SVG in a text editor and edit the gradient color hexes.  
-- Add a `Jammu_Ashica_Resume.pdf` in the repo root and link it where you'd like (e.g., `./Jammu_Ashica_Resume.pdf`).  
-- Want animated badges or an SVG icon pack instead of shields? I can generate a tailored SVG tech grid or a dark/light switcher.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> 
